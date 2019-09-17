@@ -76,3 +76,42 @@ C:\Users\Kotov\Desktop\sdsds\The best app in the world\obj\Debug\The best app in
 C:\Users\Kotov\Desktop\sdsds\The best app in the world\obj\Debug\The best app in the world.csproj.CopyComplete
 C:\Users\Kotov\Desktop\sdsds\The best app in the world\obj\Debug\The best app in the world.exe
 C:\Users\Kotov\Desktop\sdsds\The best app in the world\obj\Debug\The best app in the world.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\The best app in the world.exe.config
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\The best app in the world.exe
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\The best app in the world.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Prism.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\ShowMeTheXAML.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\System.ValueTuple.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Telegram.Bot.dll
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Prism.pdb
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Prism.xml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\System.ValueTuple.xml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\bin\Debug\Telegram.Bot.xml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.csprojAssemblyReference.cache
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\MainWindow.g.cs
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\View\ChatWindow.g.cs
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\App.g.cs
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world_MarkupCompile.cache
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world_MarkupCompile.lref
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\App.baml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\MainWindow.baml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\View\ChatWindow.baml
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.g.resources
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The_best_app_in_the_world.Properties.Resources.resources
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.csproj.GenerateResource.cache
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.csproj.CoreCompileInputs.cache
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.csproj.CopyComplete
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.exe
+C:\Users\Kotov\Desktop\sdsds\SuperTelegramClient\The best app in the world\obj\Debug\The best app in the world.pdb
