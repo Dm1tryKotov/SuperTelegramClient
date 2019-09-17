@@ -1,0 +1,74 @@
+﻿<Window x:Class="The_best_app_in_the_world.View.ChatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:The_best_app_in_the_world.View"
+        xmlns:vm="clr-namespace:The_best_app_in_the_world.VM"
+        mc:Ignorable="d"
+        Title="ChatWindow" Height="514" Width="388">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ListBox
+            VerticalAlignment="Bottom"
+            SelectedIndex="0"
+            Name="AllMessages"
+            FontSize="14"
+            ItemsSource="{Binding Messages}"
+            Grid.Row="0"
+            >
+            <ListBox.ItemTemplate>
+                <DataTemplate DataType="vm:MessageViewModel">
+                    <StackPanel 
+                        HorizontalAlignment="{Binding CurrentHorizontalAlignment}"
+                        Width="370">
+                        <TextBox
+                            MaxWidth="300"
+                            MaxHeight="400"
+                            Margin="5 5 5 5"
+                            HorizontalAlignment="{Binding CurrentHorizontalAlignment}"
+                            Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+                            materialDesign:HintAssist.Hint="{Binding Author}"
+                            ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                            ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                            IsReadOnly="True"
+                            TextWrapping="Wrap"
+                            VerticalAlignment="Stretch"
+                            Text="{Binding MessageText}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            MaxHeight="305">
+            <TextBox
+                MaxHeight="300"
+                materialDesign:HintAssist.Hint="Введите сообщение"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                Margin="1 0 0 0"
+                Width="300"
+                VerticalAlignment="Stretch"
+                TextWrapping="Wrap"
+                Text="{Binding NewMessage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                <TextBox.InputBindings>
+                    <KeyBinding 
+                        Key="Enter" 
+                        Command="{Binding SendMessageCommand}" />
+                </TextBox.InputBindings>
+            </TextBox>
+            <Button
+                Width="70"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Command="{Binding SendMessageCommand}">
+                SEND
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
